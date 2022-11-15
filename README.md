@@ -1,2 +1,3 @@
-# fortinet-private-offers
+# Fortinet Private Offers
+
 Fortinet Private Offers
