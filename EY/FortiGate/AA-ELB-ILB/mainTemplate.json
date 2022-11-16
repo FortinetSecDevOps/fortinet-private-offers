@@ -357,7 +357,7 @@
   "resources": [
     {
       "apiVersion": "2019-10-01",
-      "name": "[concat(parameters('fortiGateNamePrefix'), '-fortinetdeployment-', uniquestring(resourceGroup().id))]",
+      "name": "pid-776b2227-2743-485a-b385-e9dfd42bfe75-partnercenter",
       "type": "Microsoft.Resources/deployments",
       "properties":{
         "mode": "Incremental",
